@@ -1,2 +1,2 @@
 # FRR_Perpustakaan
-Program perpustakaan berbasis php native
+Program perpustakaan berbasis php sederhana
